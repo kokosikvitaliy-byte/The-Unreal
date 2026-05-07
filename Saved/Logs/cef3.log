@@ -1,0 +1,4 @@
+[6548:20484:0507/180407.978:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6548:20484:0507/180408.985:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13412:9780:0507/180442.369:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EE611A35856DDBC7EAA3B1CAE8B9A8BC will be ignored
+[6548:20484:0507/180454.079:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
