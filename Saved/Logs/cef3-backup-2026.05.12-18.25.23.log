@@ -1,0 +1,5 @@
+[13036:2844:0512/204233.810:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13036:2844:0512/204235.872:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13036:2844:0512/204254.100:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13036:2844:0512/205157.340:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13036:2844:0512/212523.265:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,4 +1,10 @@
-[19056:17492:0507/211134.803:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19056:17492:0507/211134.891:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5272:19020:0507/211141.206:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4CEE7AC7F79A38BAAB8E923953BAEB27 will be ignored
-[19056:17492:0507/220939.757:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[3836:19832:0521/182205.253:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3836:19832:0521/182206.027:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3836:19832:0521/182217.304:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[3836:19832:0521/182221.130:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[3836:19832:0521/182221.130:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[3836:19832:0521/182221.130:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[3836:19832:0521/182221.130:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[3836:4320:0521/182222.111:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[3836:19832:0521/182227.146:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[3836:19832:0521/182233.056:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
